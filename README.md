@@ -5,7 +5,7 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
 ## AIM:
-To Implement Linear and Polynomial Trend Estiamtion Using Python.
+To Implement Linear and Polynomial Trend Estimation Using Python.
 
 ## ALGORITHM:
 1. Import necessary libraries (NumPy, Matplotlib)
@@ -110,4 +110,4 @@ B- POLYNOMIAL TREND ESTIMATION
 
 
 ## RESULT:
-Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
+Thus the python program for linear and Polynomial Trend Estimation has been executed successfully.
