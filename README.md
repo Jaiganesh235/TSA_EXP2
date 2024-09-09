@@ -85,8 +85,19 @@ plt.show()
 
 
 ```
-
-## OUTPUT
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+## OUTPUT:
 A - LINEAR TREND ESTIMATION
 ![image](https://github.com/user-attachments/assets/8ddb27df-8542-436e-a5de-3f26b033b5c5)
 
